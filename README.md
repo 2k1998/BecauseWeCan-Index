@@ -1,36 +1,140 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Energy Contract Portal
 
-## Getting Started
+Static document portal for energy contract files. Built with Next.js + TypeScript + Tailwind. Deployed via GitHub Pages.
 
-First, run the development server:
+## Stack
+- **Frontend**: Next.js (App Router, static export)
+- **Styling**: Tailwind CSS
+- **Storage**: GitHub repo (PDFs in `public/files/`)
+- **Hosting**: GitHub Pages
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## Adding / Updating PDFs
+
+1. Place the PDF in the correct folder under `public/files/`:
+   ```
+   public/files/{provider}/{energy}/{customer}/{program}/filename.pdf
+   ```
+2. Add an entry to `public/manifest.json` pointing to that path
+3. Commit and push → GitHub Actions auto-deploys
+
+**Example path:**
+```
+public/files/zenith/revma/oikiaka/kitrina/Power Home Save.pdf
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Example manifest entry:**
+```json
+{ "name": "Power Home Save.pdf", "path": "files/zenith/revma/oikiaka/kitrina/Power Home Save.pdf" }
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Local Development
 
-## Learn More
+```bash
+npm install
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Open http://localhost:3000
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Build & Export
 
-## Deploy on Vercel
+```bash
+npm run build
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Output goes to `out/`. This is the static site ready for deployment.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Deploy to GitHub Pages
+
+### One-time setup
+
+1. Create a GitHub repo and push this project
+2. Go to **Settings → Pages → Source → GitHub Actions**
+3. Create `.github/workflows/deploy.yml`:
+
+```yaml
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out/
+      - uses: actions/deploy-pages@v4
+```
+
+4. Push → site goes live at `https://{username}.github.io/{repo-name}/`
+
+### If using a subdirectory URL (not custom domain)
+
+Add to `next.config.ts`:
+```ts
+basePath: "/{repo-name}",
+assetPrefix: "/{repo-name}/",
+```
+
+If using a custom domain, leave `basePath` empty.
+
+---
+
+## Manifest Structure
+
+```json
+{
+  "providers": [
+    {
+      "slug": "zenith",
+      "label": "Ζενίθ",
+      "energyTypes": [
+        {
+          "slug": "revma",
+          "label": "Ρεύμα",
+          "sharedFiles": [],
+          "customerTypes": [
+            {
+              "slug": "oikiaka",
+              "label": "Οικιακά",
+              "sharedFiles": [],
+              "programs": [
+                {
+                  "slug": "kitrina",
+                  "label": "Κίτρινα",
+                  "files": [
+                    { "name": "Power Home Save.pdf", "path": "files/zenith/revma/oikiaka/kitrina/Power Home Save.pdf" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
