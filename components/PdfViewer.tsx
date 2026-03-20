@@ -29,7 +29,8 @@ export function PdfViewer({ file, onClose }: PdfViewerProps) {
 
   if (!file) return null;
 
-  const fileUrl = `/${file.path}`;
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const fileUrl = `${basePath}/${file.path}`;
   const displayName = file.name.replace(/\.pdf$/i, "");
 
   return (

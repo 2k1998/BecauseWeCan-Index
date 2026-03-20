@@ -17,6 +17,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const records = getAllSearchRecords();
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
   return (
     <html lang="el" className="dark">
@@ -26,7 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center gap-4">
             <Link href="/" className="flex items-center gap-3 flex-shrink-0 group">
               {/* Note: User must supply public/logo.png */}
-              <img src="/logo.png" alt="We Care Logo" className="h-8 w-auto object-contain" />
+              <img src={`${basePath}/logo.png`} alt="We Care Logo" className="h-8 w-auto object-contain" />
               <span className="text-sm font-semibold text-[#c99b3b] group-hover:text-[#e8b958] transition-colors hidden sm:block">
                 Συμβόλαια Ενέργειας
               </span>
