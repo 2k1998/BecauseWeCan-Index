@@ -149,7 +149,30 @@
                     "name": "Κίτρνο",
                     "type": "directory",
                     "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο",
-                    "children": []
+                    "children": [
+                      {
+                        "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf",
+                        "type": "file",
+                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf"
+                      },
+                      {
+                        "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf",
+                        "type": "file",
+                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Μπλε",
+                    "children": [
+                      {
+                        "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf",
+                        "type": "file",
+                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Μπλε/Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf"
+                      }
+                    ]
                   },
                   {
                     "name": "Πράσινα",
@@ -157,36 +180,21 @@
                     "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα",
                     "children": [
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ελευθ - Γ21.pdf",
+                        "name": "Επαγ - έως 25ΚVA - Ειδικό - Γ21.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ελευθ - Γ21.pdf"
+                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό - Γ21.pdf"
                       },
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ελευθ - Γ22.pdf",
+                        "name": "Επαγ - έως 25ΚVA - Ειδικό- Γ22.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ελευθ - Γ22.pdf"
+                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό- Γ22.pdf"
                       },
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ελευθ - Γ23.pdf",
+                        "name": "Επαγ - έως 25ΚVA - Ειδικό- Γ23.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ελευθ - Γ23.pdf"
+                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό- Γ23.pdf"
                       }
                     ]
-                  },
-                  {
-                    "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf"
-                  },
-                  {
-                    "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf"
-                  },
-                  {
-                    "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf"
                   }
                 ]
               }
@@ -201,59 +209,62 @@
                 "name": "Κίτρινα",
                 "type": "directory",
                 "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα",
-                "children": []
+                "children": [
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate.pdf"
+                  },
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all.pdf"
+                  },
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students.pdf"
+                  }
+                ]
               },
               {
                 "name": "Μπλε",
                 "type": "directory",
                 "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε",
-                "children": []
+                "children": [
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf"
+                  },
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo.pdf"
+                  },
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan.pdf"
+                  },
+                  {
+                    "name": "Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf"
+                  }
+                ]
               },
               {
                 "name": "Πράσινα",
                 "type": "directory",
                 "path": "ΔΕΗ/Ρεύμα/Οικιακό/Πράσινα",
-                "children": []
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό - Green.pdf"
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all - Green.pdf"
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate - Green.pdf"
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students - Green.pdf"
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter - Green.pdf"
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo- Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo- Green.pdf"
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan - Green.pdf"
-              },
-              {
-                "name": "Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter - Green.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter - Green.pdf"
+                "children": [
+                  {
+                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό.pdf",
+                    "type": "file",
+                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Πράσινα/Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό.pdf"
+                  }
+                ]
               }
             ]
           }
