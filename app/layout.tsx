@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { getManifest, getAllSearchRecords } from "@/lib/manifest";
+import { getSearchIndex } from "@/lib/manifest";
 import { SearchBar } from "@/components/SearchBar";
 import Link from "next/link";
 
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const records = getAllSearchRecords();
+  const records = getSearchIndex();
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
   return (

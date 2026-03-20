@@ -1,96 +1,74 @@
-import manifest from "@/public/manifest.json";
-import type { Manifest, Provider, EnergyType, CustomerType, Program, SearchRecord } from "./types";
+import manifestJson from "../public/manifest.json";
 
-export function getManifest(): Manifest {
-  return manifest as Manifest;
+export interface FileNode {
+  name: string;
+  type: "file" | "directory";
+  path: string;
+  children?: FileNode[];
 }
 
-export function getProvider(providerSlug: string): Provider | undefined {
-  return getManifest().providers.find((p) => p.slug === providerSlug);
-}
+export const manifest = manifestJson as FileNode[];
 
-export function getEnergyType(providerSlug: string, energySlug: string): EnergyType | undefined {
-  return getProvider(providerSlug)?.energyTypes.find((e) => e.slug === energySlug);
-}
-
-export function getCustomerType(
-  providerSlug: string,
-  energySlug: string,
-  customerSlug: string
-): CustomerType | undefined {
-  return getEnergyType(providerSlug, energySlug)?.customerTypes.find(
-    (c) => c.slug === customerSlug
-  );
-}
-
-export function getProgram(
-  providerSlug: string,
-  energySlug: string,
-  customerSlug: string,
-  programSlug: string
-): Program | undefined {
-  return getCustomerType(providerSlug, energySlug, customerSlug)?.programs.find(
-    (p) => p.slug === programSlug
-  );
-}
-
-export function getAllSearchRecords(): SearchRecord[] {
-  const records: SearchRecord[] = [];
-  const m = getManifest();
-
-  for (const provider of m.providers) {
-    for (const energy of provider.energyTypes) {
-      // Energy-level shared files
-      for (const file of energy.sharedFiles) {
-        records.push({
-          providerSlug: provider.slug,
-          providerLabel: provider.label,
-          energySlug: energy.slug,
-          energyLabel: energy.label,
-          customerSlug: "",
-          customerLabel: "",
-          file,
-          url: `/${file.path}`,
-          breadcrumb: `${provider.label} › ${energy.label}`,
-        });
-      }
-
-      for (const customer of energy.customerTypes) {
-        // Customer-level shared files
-        for (const file of customer.sharedFiles) {
-          records.push({
-            providerSlug: provider.slug,
-            providerLabel: provider.label,
-            energySlug: energy.slug,
-            energyLabel: energy.label,
-            customerSlug: customer.slug,
-            customerLabel: customer.label,
-            file,
-            url: `/${file.path}`,
-            breadcrumb: `${provider.label} › ${energy.label} › ${customer.label}`,
-          });
-        }
-
-        for (const program of customer.programs) {
-          for (const file of program.files) {
-            records.push({
-              providerSlug: provider.slug,
-              providerLabel: provider.label,
-              energySlug: energy.slug,
-              energyLabel: energy.label,
-              customerSlug: customer.slug,
-              customerLabel: customer.label,
-              programSlug: program.slug,
-              programLabel: program.label,
-              file,
-              url: `/${file.path}`,
-              breadcrumb: `${provider.label} › ${energy.label} › ${customer.label} › ${program.label}`,
-            });
-          }
-        }
+// Flattens the tree for generating all paths
+export function getAllDirectoryPaths(nodes: FileNode[] = manifest): string[] {
+  let dirs: string[] = [];
+  for (const node of nodes) {
+    if (node.type === "directory") {
+      dirs.push(node.path);
+      if (node.children) {
+        dirs = dirs.concat(getAllDirectoryPaths(node.children));
       }
     }
   }
+  return dirs;
+}
 
+export function getFolderContent(targetPath: string, nodes: FileNode[] = manifest): FileNode[] {
+  if (!targetPath) return nodes; // root
+  const parts = targetPath.split("/");
+  let currentOpts = nodes;
+  
+  for (const part of parts) {
+    const found = currentOpts.find((n) => n.name === part && n.type === "directory");
+    if (found && found.children) {
+      currentOpts = found.children;
+    } else {
+      return [];
+    }
+  }
+  return currentOpts;
+}
+
+export interface SearchRecord {
+  name: string;
+  path: string;
+  provider: string; // the root folder alias
+  breadcrumb: string;
+  folderUrl: string;
+  searchString: string;
+}
+
+export function getSearchIndex(nodes: FileNode[] = manifest, providerStr = "", breadcrumbStr = ""): SearchRecord[] {
+  let records: SearchRecord[] = [];
+  for (const node of nodes) {
+    if (node.type === "directory") {
+      const newProvider = providerStr || node.name;
+      const newBreadcrumb = breadcrumbStr ? `${breadcrumbStr} / ${node.name}` : node.name;
+      if (node.children) {
+        records = records.concat(getSearchIndex(node.children, newProvider, newBreadcrumb));
+      }
+    } else if (node.type === "file") {
+      const parentParts = node.path.split("/").slice(0, -1);
+      const folderUrl = `/folder/${parentParts.map(encodeURIComponent).join('/')}`;
+      records.push({
+        name: node.name,
+        path: node.path,
+        provider: providerStr,
+        breadcrumb: breadcrumbStr,
+        folderUrl,
+        searchString: `${providerStr} ${breadcrumbStr} ${node.name}`.toLowerCase(),
+      });
+    }
+  }
   return records;
 }

@@ -35,17 +35,11 @@ export interface Manifest {
   providers: Provider[];
 }
 
-// Flat record used for search
 export interface SearchRecord {
-  providerSlug: string;
-  providerLabel: string;
-  energySlug: string;
-  energyLabel: string;
-  customerSlug: string;
-  customerLabel: string;
-  programSlug?: string;
-  programLabel?: string;
-  file: FileEntry;
-  url: string; // full URL path to file
-  breadcrumb: string; // human-readable path
+  name: string;
+  path: string;
+  provider: string; // the root folder alias
+  breadcrumb: string;
+  folderUrl: string;
+  searchString: string;
 }

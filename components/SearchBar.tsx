@@ -30,12 +30,7 @@ export function SearchBar({ records }: SearchBarProps) {
       }
       const norm = normalize(q);
       const matched = records.filter((r) => {
-        return (
-          normalize(r.providerLabel).includes(norm) ||
-          normalize(r.file.name).includes(norm) ||
-          (r.programLabel && normalize(r.programLabel).includes(norm)) ||
-          normalize(r.breadcrumb).includes(norm)
-        );
+        return r.searchString.includes(norm);
       });
       setResults(matched.slice(0, 8));
       setOpen(true);
@@ -51,8 +46,7 @@ export function SearchBar({ records }: SearchBarProps) {
   }, [query, search]);
 
   const navigateTo = (record: SearchRecord) => {
-    const parts = [record.providerSlug, record.energySlug, record.customerSlug, record.programSlug].filter(Boolean);
-    router.push(`/${parts.join("/")}/`);
+    router.push(record.folderUrl);
     setQuery("");
     setOpen(false);
   };
@@ -88,11 +82,11 @@ export function SearchBar({ records }: SearchBarProps) {
         <div className="absolute top-full left-0 right-0 mt-1 bg-slate-800 border border-slate-700 rounded-xl shadow-xl overflow-hidden z-50">
           {results.map((r, i) => (
             <button
-              key={`${r.file.path}-${i}`}
+              key={`${r.path}-${i}`}
               onMouseDown={() => navigateTo(r)}
               className={`w-full text-left px-4 py-2.5 flex flex-col gap-0.5 transition-colors ${i === activeIdx ? "bg-indigo-600/20" : "hover:bg-slate-700/60"}`}
             >
-              <span className="text-sm text-slate-200 truncate">{r.file.name.replace(/\.pdf$/i, "")}</span>
+              <span className="text-sm text-slate-200 truncate">{r.name.replace(/\.pdf$/i, "")}</span>
               <span className="text-xs text-slate-500 truncate">{r.breadcrumb}</span>
             </button>
           ))}
