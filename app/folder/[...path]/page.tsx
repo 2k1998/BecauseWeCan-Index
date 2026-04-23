@@ -3,14 +3,12 @@ import { getFolderContent, getAllDirectoryPaths } from "@/lib/manifest";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { FolderCard } from "@/components/FolderCard";
 import { FileList } from "@/components/FileList";
-
-export const dynamicParams = false;
+import { PROVIDER_COLORS } from "@/lib/colors";
 
 // Pre-render ALL directory routes!
 export function generateStaticParams() {
   const dirs = getAllDirectoryPaths();
   return dirs.map(dir => {
-    // Return path array, splitting the joined path cleanly
     return { path: dir.split('/') };
   });
 }
@@ -18,10 +16,19 @@ export function generateStaticParams() {
 export default async function FolderPage({ params }: { params: Promise<{ path: string[] }> }) {
   // App router in Next.js >15 passes params as a Promise.
   const resolvedParams = await params;
-  const decodedSegments = resolvedParams.path.map(decodeURIComponent);
+  // Next.js static generation passes the encoded strings (like %CE%95...) due to our encodeURIComponent in generateStaticParams.
+  // We MUST decode them so they match the Greek names in the manifest.json
+  const decodedSegments = resolvedParams.path.map((segment) => {
+    try {
+      return decodeURIComponent(segment);
+    } catch {
+      return segment;
+    }
+  });
   const currentPathStr = decodedSegments.join('/');
 
   const contents = getFolderContent(currentPathStr);
+
   if (!contents || contents.length === 0) {
     notFound();
   }
@@ -35,10 +42,9 @@ export default async function FolderPage({ params }: { params: Promise<{ path: s
   }));
 
   const crumbs = [
-    { label: "Αρχική Πάροχοι", href: "/" },
+    { label: "Αρχική", href: "/" },
     ...decodedSegments.map((segment, index) => ({
       label: segment,
-      // hrefs use the encoded URL pieces passed in `params.path`
       href: `/folder/${resolvedParams.path.slice(0, index + 1).join('/')}`
     }))
   ];
@@ -61,15 +67,24 @@ export default async function FolderPage({ params }: { params: Promise<{ path: s
         {directories.length > 0 && (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
             {directories.map((dir) => {
-              // Construct the exact URL. We need to URI encode the new part
-              const newSegment = encodeURIComponent(dir.name);
-              const linkUrl = `/folder/${resolvedParams.path.join('/')}/${newSegment}`;
+              // Construct the exact URL without manual encoding
+              const linkUrl = `/folder/${resolvedParams.path.join('/')}/${dir.name}`;
               
+              // Determine folder color theme
+              const slugMap: Record<string, string> = {
+                "ζενίθ": "zenith",
+                "ήρων": "iron",
+                "δεη": "dei",
+              };
+              const colorSlug = slugMap[dir.name.toLowerCase()] || dir.name.toLowerCase();
+              const colorTheme = PROVIDER_COLORS[colorSlug];
+
               return (
                 <FolderCard
                   key={dir.name}
                   href={linkUrl}
                   label={dir.name}
+                  colorTheme={colorTheme}
                 />
               );
             })}

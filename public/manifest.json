@@ -1,930 +1,821 @@
 [
   {
-    "name": "ΔΕΗ",
+    "name": "Ενέργεια",
     "type": "directory",
-    "path": "ΔΕΗ",
+    "path": "Ενέργεια",
     "children": [
       {
-        "name": "Αέριο",
+        "name": "Λοιποί πάροχοι ενέργειας",
         "type": "directory",
-        "path": "ΔΕΗ/Αέριο",
+        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας",
         "children": [
           {
-            "name": "Επαγγελματικό",
+            "name": "ΔΕΗ",
             "type": "directory",
-            "path": "ΔΕΗ/Αέριο/Επαγγελματικό",
+            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ",
             "children": [
               {
-                "name": "Κυμμαινόμενο",
+                "name": "Αέριο",
                 "type": "directory",
-                "path": "ΔΕΗ/Αέριο/Επαγγελματικό/Κυμμαινόμενο",
+                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο",
                 "children": [
                   {
-                    "name": "MyBusiness Gas Benefit.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Αέριο/Επαγγελματικό/Κυμμαινόμενο/MyBusiness Gas Benefit.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Σταθερό",
-                "type": "directory",
-                "path": "ΔΕΗ/Αέριο/Επαγγελματικό/Σταθερό",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Κοινόχρηστο",
-            "type": "directory",
-            "path": "ΔΕΗ/Αέριο/Κοινόχρηστο",
-            "children": [
-              {
-                "name": "Σταθερό",
-                "type": "directory",
-                "path": "ΔΕΗ/Αέριο/Κοινόχρηστο/Σταθερό",
-                "children": [
-                  {
-                    "name": "MyBuilding Gas Control.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Αέριο/Κοινόχρηστο/Σταθερό/MyBuilding Gas Control.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "MyBuilding Gas Benefit.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Αέριο/Κοινόχρηστο/MyBuilding Gas Benefit.pdf"
-              }
-            ]
-          },
-          {
-            "name": "Οικιακό",
-            "type": "directory",
-            "path": "ΔΕΗ/Αέριο/Οικιακό",
-            "children": [
-              {
-                "name": "Σταθερό",
-                "type": "directory",
-                "path": "ΔΕΗ/Αέριο/Οικιακό/Σταθερό",
-                "children": [
-                  {
-                    "name": "Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasControl.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Αέριο/Οικιακό/Σταθερό/Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasControl.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasBenefit.pdf",
-                "type": "file",
-                "path": "ΔΕΗ/Αέριο/Οικιακό/Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasBenefit.pdf"
-              }
-            ]
-          },
-          {
-            "name": "Σύμβαση_Φυσικού_Αερίου_ΤΗΛΕΜΑΤΙΚΗ.pdf",
-            "type": "file",
-            "path": "ΔΕΗ/Αέριο/Σύμβαση_Φυσικού_Αερίου_ΤΗΛΕΜΑΤΙΚΗ.pdf"
-          }
-        ]
-      },
-      {
-        "name": "Ρεύμα",
-        "type": "directory",
-        "path": "ΔΕΗ/Ρεύμα",
-        "children": [
-          {
-            "name": "Επαγγελματικό",
-            "type": "directory",
-            "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό",
-            "children": [
-              {
-                "name": "Άνω των 25 kVA",
-                "type": "directory",
-                "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA",
-                "children": [
-                  {
-                    "name": "Κίτρινο",
+                    "name": "Επαγγελματικό",
                     "type": "directory",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο",
+                    "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Επαγγελματικό",
                     "children": [
                       {
-                        "name": "Επαγ - από 25 KVA - Ελευθ - Γ22.pdf",
-                        "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο/Επαγ - από 25 KVA - Ελευθ - Γ22.pdf"
+                        "name": "Κυμμαινόμενο",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Επαγγελματικό/Κυμμαινόμενο",
+                        "children": [
+                          {
+                            "name": "MyBusiness Gas Benefit.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Επαγγελματικό/Κυμμαινόμενο/MyBusiness Gas Benefit.pdf"
+                          }
+                        ]
                       },
                       {
-                        "name": "Επαγ - από 25 KVA - Ελευθ - Mybusiness4all.pdf",
-                        "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο/Επαγ - από 25 KVA - Ελευθ - Mybusiness4all.pdf"
-                      },
-                      {
-                        "name": "Επαγ - από 25 KVA - Ελευθ - Mybusiness4all+.pdf",
-                        "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο/Επαγ - από 25 KVA - Ελευθ - Mybusiness4all+.pdf"
+                        "name": "Σταθερό",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Επαγγελματικό/Σταθερό",
+                        "children": []
                       }
                     ]
                   },
                   {
-                    "name": "Πράσινο",
+                    "name": "Κοινόχρηστο",
                     "type": "directory",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Πράσινο",
+                    "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Κοινόχρηστο",
                     "children": [
                       {
-                        "name": "Επαγ - από 25 KVA - Ελευθ - Γ23.pdf",
+                        "name": "Σταθερό",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Κοινόχρηστο/Σταθερό",
+                        "children": [
+                          {
+                            "name": "MyBuilding Gas Control.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Κοινόχρηστο/Σταθερό/MyBuilding Gas Control.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MyBuilding Gas Benefit.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Πράσινο/Επαγ - από 25 KVA - Ελευθ - Γ23.pdf"
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Κοινόχρηστο/MyBuilding Gas Benefit.pdf"
                       }
                     ]
+                  },
+                  {
+                    "name": "Οικιακό",
+                    "type": "directory",
+                    "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Οικιακό",
+                    "children": [
+                      {
+                        "name": "Σταθερό",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Οικιακό/Σταθερό",
+                        "children": [
+                          {
+                            "name": "Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasControl.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Οικιακό/Σταθερό/Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasControl.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasBenefit.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Οικιακό/Αίτηση Οικιακού - ΑΕΡΙΟ- MyHomeGasBenefit.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Σύμβαση_Φυσικού_Αερίου_ΤΗΛΕΜΑΤΙΚΗ.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Αέριο/Σύμβαση_Φυσικού_Αερίου_ΤΗΛΕΜΑΤΙΚΗ.pdf"
                   }
                 ]
               },
               {
-                "name": "Έως 25 kVA",
+                "name": "Ρεύμα",
                 "type": "directory",
-                "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA",
+                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα",
                 "children": [
                   {
-                    "name": "Κίτρνο",
+                    "name": "Επαγγελματικό",
                     "type": "directory",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο",
+                    "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό",
                     "children": [
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf",
-                        "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf"
+                        "name": "Άνω των 25 kVA",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA",
+                        "children": [
+                          {
+                            "name": "Κίτρινο",
+                            "type": "directory",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο",
+                            "children": [
+                              {
+                                "name": "Επαγ - από 25 KVA - Ελευθ - Γ22.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο/Επαγ - από 25 KVA - Ελευθ - Γ22.pdf"
+                              },
+                              {
+                                "name": "Επαγ - από 25 KVA - Ελευθ - Mybusiness4all.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο/Επαγ - από 25 KVA - Ελευθ - Mybusiness4all.pdf"
+                              },
+                              {
+                                "name": "Επαγ - από 25 KVA - Ελευθ - Mybusiness4all+.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Κίτρινο/Επαγ - από 25 KVA - Ελευθ - Mybusiness4all+.pdf"
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Πράσινο",
+                            "type": "directory",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Πράσινο",
+                            "children": [
+                              {
+                                "name": "Επαγ - από 25 KVA - Ελευθ - Γ23.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Άνω των 25 kVA/Πράσινο/Επαγ - από 25 KVA - Ελευθ - Γ23.pdf"
+                              }
+                            ]
+                          }
+                        ]
                       },
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf",
+                        "name": "Έως 25 kVA",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA",
+                        "children": [
+                          {
+                            "name": "Κίτρνο",
+                            "type": "directory",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο",
+                            "children": [
+                              {
+                                "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all.pdf"
+                              },
+                              {
+                                "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf"
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Μπλε",
+                            "type": "directory",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Μπλε",
+                            "children": [
+                              {
+                                "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Μπλε/Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf"
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Πράσινα",
+                            "type": "directory",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα",
+                            "children": [
+                              {
+                                "name": "Επαγ - έως 25ΚVA - Ειδικό - Γ21.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό - Γ21.pdf"
+                              },
+                              {
+                                "name": "Επαγ - έως 25ΚVA - Ειδικό- Γ22.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό- Γ22.pdf"
+                              },
+                              {
+                                "name": "Επαγ - έως 25ΚVA - Ειδικό- Γ23.pdf",
+                                "type": "file",
+                                "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό- Γ23.pdf"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Οικιακό",
+                    "type": "directory",
+                    "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό",
+                    "children": [
+                      {
+                        "name": "Κίτρινα",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα",
+                        "children": [
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate.pdf"
+                          },
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all.pdf"
+                          },
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Μπλε",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Μπλε",
+                        "children": [
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf"
+                          },
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo.pdf"
+                          },
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan.pdf"
+                          },
+                          {
+                            "name": "Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Πράσινα",
+                        "type": "directory",
+                        "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Πράσινα",
+                        "children": [
+                          {
+                            "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΔΕΗ/Ρεύμα/Οικιακό/Πράσινα/Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ΦΑΕΕΕ",
+            "type": "directory",
+            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/ΦΑΕΕΕ",
+            "children": []
+          },
+          {
+            "name": "Eunice",
+            "type": "directory",
+            "path": "Ενέργεια/Λοιποί πάροχοι ενέργειας/Eunice",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Ζενίθ",
+        "type": "directory",
+        "path": "Ενέργεια/Ζενίθ",
+        "children": [
+          {
+            "name": "Αέριο",
+            "type": "directory",
+            "path": "Ενέργεια/Ζενίθ/Αέριο",
+            "children": [
+              {
+                "name": "Επαγγελματικό",
+                "type": "directory",
+                "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό",
+                "children": [
+                  {
+                    "name": "Κυμμενομενο",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο",
+                    "children": [
+                      {
+                        "name": "Gas Business Easy 1.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Κίτρνο/Επαγ - έως 25ΚVA - Ελευθ - MyBusiness4all+.pdf"
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Easy 1.pdf"
+                      },
+                      {
+                        "name": "Gas Business Easy 2.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Easy 2.pdf"
+                      },
+                      {
+                        "name": "Gas Business Save +.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Save +.pdf"
+                      },
+                      {
+                        "name": "Gas Business Save Promo 90€.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Save Promo 90€.pdf"
+                      },
+                      {
+                        "name": "Gas Business Save.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Save.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "st_gas_business_save_60e_7 (1).pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Επαγγελματικό/st_gas_business_save_60e_7 (1).pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Κεντρική Θέρμανση",
+                "type": "directory",
+                "path": "Ενέργεια/Ζενίθ/Αέριο/Κεντρική Θέρμανση",
+                "children": [
+                  {
+                    "name": "Gas Central Easy.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Κεντρική Θέρμανση/Gas Central Easy.pdf"
+                  },
+                  {
+                    "name": "Gas Central Save.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Κεντρική Θέρμανση/Gas Central Save.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Οικιακό",
+                "type": "directory",
+                "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό",
+                "children": [
+                  {
+                    "name": "Κυμαινόμενο",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο",
+                    "children": [
+                      {
+                        "name": "Gas Home Now.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο/Gas Home Now.pdf"
+                      },
+                      {
+                        "name": "Gas Home Save Promo 120€.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο/Gas Home Save Promo 120€.pdf"
+                      },
+                      {
+                        "name": "Gas Home Save.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο/Gas Home Save.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Σταθερό",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/Σταθερό",
+                    "children": [
+                      {
+                        "name": "Gas Home Secure.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/Σταθερό/Gas Home Secure.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "st_gas_home_save_120e (1).pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/Ζενίθ/Αέριο/Οικιακό/st_gas_home_save_120e (1).pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Αίτηση Φ.Α..pdf",
+                "type": "file",
+                "path": "Ενέργεια/Ζενίθ/Αέριο/Αίτηση Φ.Α..pdf"
+              },
+              {
+                "name": "Γενικοί Όροι Φ.Α..pdf",
+                "type": "file",
+                "path": "Ενέργεια/Ζενίθ/Αέριο/Γενικοί Όροι Φ.Α..pdf"
+              }
+            ]
+          },
+          {
+            "name": "Ρεύμα",
+            "type": "directory",
+            "path": "Ενέργεια/Ζενίθ/Ρεύμα",
+            "children": [
+              {
+                "name": "Επαγγελματικά",
+                "type": "directory",
+                "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά",
+                "children": [
+                  {
+                    "name": "Κίτρινα",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Κίτρινα",
+                    "children": [
+                      {
+                        "name": "Power Business Basic 2.0.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Κίτρινα/Power Business Basic 2.0.pdf"
+                      },
+                      {
+                        "name": "Power Business Basic.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Κίτρινα/Power Business Basic.pdf"
                       }
                     ]
                   },
                   {
                     "name": "Μπλε",
                     "type": "directory",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Μπλε",
+                    "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Μπλε",
                     "children": [
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf",
+                        "name": "Power Business Trust 4.0.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Μπλε/Επαγ - έως 25ΚVA - Ελευθ - MyBusinessEnter (1).pdf"
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Μπλε/Power Business Trust 4.0.pdf"
                       }
                     ]
                   },
                   {
                     "name": "Πράσινα",
                     "type": "directory",
-                    "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα",
+                    "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Πράσινα",
                     "children": [
                       {
-                        "name": "Επαγ - έως 25ΚVA - Ειδικό - Γ21.pdf",
+                        "name": "Power Business Start.pdf",
                         "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό - Γ21.pdf"
-                      },
-                      {
-                        "name": "Επαγ - έως 25ΚVA - Ειδικό- Γ22.pdf",
-                        "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό- Γ22.pdf"
-                      },
-                      {
-                        "name": "Επαγ - έως 25ΚVA - Ειδικό- Γ23.pdf",
-                        "type": "file",
-                        "path": "ΔΕΗ/Ρεύμα/Επαγγελματικό/Έως 25 kVA/Πράσινα/Επαγ - έως 25ΚVA - Ειδικό- Γ23.pdf"
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Επαγγελματικά/Πράσινα/Power Business Start.pdf"
                       }
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "name": "Οικιακό",
-            "type": "directory",
-            "path": "ΔΕΗ/Ρεύμα/Οικιακό",
-            "children": [
+              },
               {
-                "name": "Κίτρινα",
+                "name": "Οικιακά",
                 "type": "directory",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα",
+                "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά",
                 "children": [
                   {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all OneRate.pdf"
+                    "name": "Κίτρινα",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα",
+                    "children": [
+                      {
+                        "name": "Power Home Confort.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Confort.pdf"
+                      },
+                      {
+                        "name": "Power Home Save.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Save.pdf"
+                      },
+                      {
+                        "name": "Power Home Select.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Select.pdf"
+                      },
+                      {
+                        "name": "Power Home Student.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Student.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4all.pdf"
-                  },
-                  {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Κίτρινα/Αίτηση Οικιακού - ΡΕΥΜΑ - myHome4Students.pdf"
+                    "name": "Μπλέ",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Μπλέ",
+                    "children": [
+                      {
+                        "name": "Power Home Control Plus Boost Promo.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Control Plus Boost Promo.pdf"
+                      },
+                      {
+                        "name": "Power Home Control Plus Promo.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Control Plus Promo.pdf"
+                      },
+                      {
+                        "name": "Power Home Control PLus.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Control PLus.pdf"
+                      },
+                      {
+                        "name": "Power Home Simple fx.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Simple fx.pdf"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "name": "Μπλε",
-                "type": "directory",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε",
-                "children": [
-                  {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf"
-                  },
-                  {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnterTwo.pdf"
-                  },
-                  {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Αίτηση Οικιακού - ΡΕΥΜΑ - myHomePlan.pdf"
-                  },
-                  {
-                    "name": "Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Μπλε/Ανανέωση - Αίτηση Οικιακού - ΡΕΥΜΑ - myHomeEnter.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινα",
-                "type": "directory",
-                "path": "ΔΕΗ/Ρεύμα/Οικιακό/Πράσινα",
-                "children": [
-                  {
-                    "name": "Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό.pdf",
-                    "type": "file",
-                    "path": "ΔΕΗ/Ρεύμα/Οικιακό/Πράσινα/Αίτηση Οικιακού - ΡΕΥΜΑ - Γ1-Γ1Ν Οικιακό.pdf"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Ζενίθ",
-    "type": "directory",
-    "path": "Ζενίθ",
-    "children": [
-      {
-        "name": "Αέριο",
-        "type": "directory",
-        "path": "Ζενίθ/Αέριο",
-        "children": [
-          {
-            "name": "Επαγγελματικό",
-            "type": "directory",
-            "path": "Ζενίθ/Αέριο/Επαγγελματικό",
-            "children": [
-              {
-                "name": "Κυμμενομενο",
-                "type": "directory",
-                "path": "Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο",
-                "children": [
-                  {
-                    "name": "Gas Business Easy 1.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Easy 1.pdf"
-                  },
-                  {
-                    "name": "Gas Business Easy 2.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Easy 2.pdf"
-                  },
-                  {
-                    "name": "Gas Business Save +.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Save +.pdf"
-                  },
-                  {
-                    "name": "Gas Business Save Promo 90€.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Save Promo 90€.pdf"
-                  },
-                  {
-                    "name": "Gas Business Save.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Επαγγελματικό/Κυμμενομενο/Gas Business Save.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "st_gas_business_save_60e_7 (1).pdf",
+                "name": "Γενικοί όροι ρεύμα.pdf",
                 "type": "file",
-                "path": "Ζενίθ/Αέριο/Επαγγελματικό/st_gas_business_save_60e_7 (1).pdf"
-              }
-            ]
-          },
-          {
-            "name": "Κεντρική Θέρμανση",
-            "type": "directory",
-            "path": "Ζενίθ/Αέριο/Κεντρική Θέρμανση",
-            "children": [
-              {
-                "name": "Gas Central Easy.pdf",
-                "type": "file",
-                "path": "Ζενίθ/Αέριο/Κεντρική Θέρμανση/Gas Central Easy.pdf"
+                "path": "Ενέργεια/Ζενίθ/Ρεύμα/Γενικοί όροι ρεύμα.pdf"
               },
               {
-                "name": "Gas Central Save.pdf",
+                "name": "ΝΕΑ ΕΠΕΞΕΡΓΑΣΙΜΗ ΑΙΤΗΣΗ ΡΕΥΜΑ ΑΕΡΙΟ ΚΑΙ ΠΑΓΙΑ 3_2026.pdf",
                 "type": "file",
-                "path": "Ζενίθ/Αέριο/Κεντρική Θέρμανση/Gas Central Save.pdf"
+                "path": "Ενέργεια/Ζενίθ/Ρεύμα/ΝΕΑ ΕΠΕΞΕΡΓΑΣΙΜΗ ΑΙΤΗΣΗ ΡΕΥΜΑ ΑΕΡΙΟ ΚΑΙ ΠΑΓΙΑ 3_2026.pdf"
               }
             ]
-          },
-          {
-            "name": "Οικιακό",
-            "type": "directory",
-            "path": "Ζενίθ/Αέριο/Οικιακό",
-            "children": [
-              {
-                "name": "Κυμαινόμενο",
-                "type": "directory",
-                "path": "Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο",
-                "children": [
-                  {
-                    "name": "Gas Home Now.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο/Gas Home Now.pdf"
-                  },
-                  {
-                    "name": "Gas Home Save Promo 120€.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο/Gas Home Save Promo 120€.pdf"
-                  },
-                  {
-                    "name": "Gas Home Save.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Οικιακό/Κυμαινόμενο/Gas Home Save.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Σταθερό",
-                "type": "directory",
-                "path": "Ζενίθ/Αέριο/Οικιακό/Σταθερό",
-                "children": [
-                  {
-                    "name": "Gas Home Secure.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Αέριο/Οικιακό/Σταθερό/Gas Home Secure.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "st_gas_home_save_120e (1).pdf",
-                "type": "file",
-                "path": "Ζενίθ/Αέριο/Οικιακό/st_gas_home_save_120e (1).pdf"
-              }
-            ]
-          },
-          {
-            "name": "Αίτηση Φ.Α..pdf",
-            "type": "file",
-            "path": "Ζενίθ/Αέριο/Αίτηση Φ.Α..pdf"
-          },
-          {
-            "name": "Γενικοί Όροι Φ.Α..pdf",
-            "type": "file",
-            "path": "Ζενίθ/Αέριο/Γενικοί Όροι Φ.Α..pdf"
           }
         ]
       },
       {
-        "name": "Ρεύμα",
+        "name": "Ήρων",
         "type": "directory",
-        "path": "Ζενίθ/Ρεύμα",
+        "path": "Ενέργεια/Ήρων",
         "children": [
           {
-            "name": "Επαγγελματικά",
+            "name": "Αέριο",
             "type": "directory",
-            "path": "Ζενίθ/Ρεύμα/Επαγγελματικά",
+            "path": "Ενέργεια/Ήρων/Αέριο",
             "children": [
               {
-                "name": "Κίτρινα",
+                "name": "Επαγγελματικό",
                 "type": "directory",
-                "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Κίτρινα",
+                "path": "Ενέργεια/Ήρων/Αέριο/Επαγγελματικό",
                 "children": [
                   {
-                    "name": "Power Business Basic 2.0.pdf",
+                    "name": "Gas Max Business.pdf",
                     "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Κίτρινα/Power Business Basic 2.0.pdf"
-                  },
-                  {
-                    "name": "Power Business Basic.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Κίτρινα/Power Business Basic.pdf"
+                    "path": "Ενέργεια/Ήρων/Αέριο/Επαγγελματικό/Gas Max Business.pdf"
                   }
                 ]
               },
               {
-                "name": "Μπλε",
+                "name": "Οικιακό",
                 "type": "directory",
-                "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Μπλε",
+                "path": "Ενέργεια/Ήρων/Αέριο/Οικιακό",
                 "children": [
                   {
-                    "name": "Power Business Trust 4.0.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Μπλε/Power Business Trust 4.0.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινα",
-                "type": "directory",
-                "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Πράσινα",
-                "children": [
-                  {
-                    "name": "Power Business Start.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Επαγγελματικά/Πράσινα/Power Business Start.pdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Οικιακά",
-            "type": "directory",
-            "path": "Ζενίθ/Ρεύμα/Οικιακά",
-            "children": [
-              {
-                "name": "Κίτρινα",
-                "type": "directory",
-                "path": "Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα",
-                "children": [
-                  {
-                    "name": "Power Home Confort.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Confort.pdf"
-                  },
-                  {
-                    "name": "Power Home Save.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Save.pdf"
-                  },
-                  {
-                    "name": "Power Home Select.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Select.pdf"
-                  },
-                  {
-                    "name": "Power Home Student.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Κίτρινα/Power Home Student.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Μπλέ",
-                "type": "directory",
-                "path": "Ζενίθ/Ρεύμα/Οικιακά/Μπλέ",
-                "children": [
-                  {
-                    "name": "Power Home Control Plus Boost Promo.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Control Plus Boost Promo.pdf"
-                  },
-                  {
-                    "name": "Power Home Control Plus Promo.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Control Plus Promo.pdf"
-                  },
-                  {
-                    "name": "Power Home Control PLus.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Control PLus.pdf"
-                  },
-                  {
-                    "name": "Power Home Simple fx.pdf",
-                    "type": "file",
-                    "path": "Ζενίθ/Ρεύμα/Οικιακά/Μπλέ/Power Home Simple fx.pdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Γενικοί όροι ρεύμα.pdf",
-            "type": "file",
-            "path": "Ζενίθ/Ρεύμα/Γενικοί όροι ρεύμα.pdf"
-          },
-          {
-            "name": "ΝΕΑ ΕΠΕΞΕΡΓΑΣΙΜΗ ΑΙΤΗΣΗ ΡΕΥΜΑ ΑΕΡΙΟ ΚΑΙ ΠΑΓΙΑ 3_2026.pdf",
-            "type": "file",
-            "path": "Ζενίθ/Ρεύμα/ΝΕΑ ΕΠΕΞΕΡΓΑΣΙΜΗ ΑΙΤΗΣΗ ΡΕΥΜΑ ΑΕΡΙΟ ΚΑΙ ΠΑΓΙΑ 3_2026.pdf"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Ήρων",
-    "type": "directory",
-    "path": "Ήρων",
-    "children": [
-      {
-        "name": "Αέριο",
-        "type": "directory",
-        "path": "Ήρων/Αέριο",
-        "children": [
-          {
-            "name": "Επαγγελματικό",
-            "type": "directory",
-            "path": "Ήρων/Αέριο/Επαγγελματικό",
-            "children": [
-              {
-                "name": "Gas Max Business.pdf",
-                "type": "file",
-                "path": "Ήρων/Αέριο/Επαγγελματικό/Gas Max Business.pdf"
-              }
-            ]
-          },
-          {
-            "name": "Οικιακό",
-            "type": "directory",
-            "path": "Ήρων/Αέριο/Οικιακό",
-            "children": [
-              {
-                "name": "Σταθερό",
-                "type": "directory",
-                "path": "Ήρων/Αέριο/Οικιακό/Σταθερό",
-                "children": [
-                  {
-                    "name": "Gas Blue.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Αέριο/Οικιακό/Σταθερό/Gas Blue.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Gas Max Home 2.pdf",
-                "type": "file",
-                "path": "Ήρων/Αέριο/Οικιακό/Gas Max Home 2.pdf"
-              },
-              {
-                "name": "Gas Pass.pdf",
-                "type": "file",
-                "path": "Ήρων/Αέριο/Οικιακό/Gas Pass.pdf"
-              }
-            ]
-          },
-          {
-            "name": "Gas Max Share.pdf",
-            "type": "file",
-            "path": "Ήρων/Αέριο/Gas Max Share.pdf"
-          }
-        ]
-      },
-      {
-        "name": "Ρεύμα",
-        "type": "directory",
-        "path": "Ήρων/Ρεύμα",
-        "children": [
-          {
-            "name": "Επαγγελματικά",
-            "type": "directory",
-            "path": "Ήρων/Ρεύμα/Επαγγελματικά",
-            "children": [
-              {
-                "name": "Κίτρινα",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα",
-                "children": [
-                  {
-                    "name": "BUSINESS BENEFIT 2.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/BUSINESS BENEFIT 2.pdf"
-                  },
-                  {
-                    "name": "HAPPY HOUR BUSINESS.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/HAPPY HOUR BUSINESS.pdf"
-                  },
-                  {
-                    "name": "HAPPY HOUR FOR ALL BUSINESS.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/HAPPY HOUR FOR ALL BUSINESS.pdf"
-                  },
-                  {
-                    "name": "YELLOW BENEFIT BUSINESS S.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW BENEFIT BUSINESS S.pdf"
-                  },
-                  {
-                    "name": "YELLOW FREE BUSINESS.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW FREE BUSINESS.pdf"
-                  },
-                  {
-                    "name": "YELLOW ONE BUSINESS S 2.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW ONE BUSINESS S 2.pdf"
-                  },
-                  {
-                    "name": "YELLOW PLUS BUSINESS L.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW PLUS BUSINESS L.pdf"
-                  },
-                  {
-                    "name": "YELLOW PLUS BUSINESS S.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW PLUS BUSINESS S.pdf"
-                  },
-                  {
-                    "name": "YELLOW PLUS HOME.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW PLUS HOME.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Μπλε",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Επαγγελματικά/Μπλε",
-                "children": [
-                  {
-                    "name": "BLUE GENEROUS BUSINESS 6.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS BUSINESS 6.pdf"
-                  },
-                  {
-                    "name": "BLUE GENEROUS BUSINESS 7.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS BUSINESS 7.pdf"
-                  },
-                  {
-                    "name": "BLUE GENEROUS MAX BUSINESS 2.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS MAX BUSINESS 2.pdf"
-                  },
-                  {
-                    "name": "BLUE GENEROUS MAX BUSINESS 3.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS MAX BUSINESS 3.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πορτοκαλί",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Επαγγελματικά/Πορτοκαλί",
-                "children": [
-                  {
-                    "name": "HAPPY HOUR BUSINESS L.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Πορτοκαλί/HAPPY HOUR BUSINESS L.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινα",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Επαγγελματικά/Πράσινα",
-                "children": [
-                  {
-                    "name": "BASIC BUSINESS L.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Πράσινα/BASIC BUSINESS L.pdf"
-                  },
-                  {
-                    "name": "BASIC BUSINESS S.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Επαγγελματικά/Πράσινα/BASIC BUSINESS S.pdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Οικιακά",
-            "type": "directory",
-            "path": "Ήρων/Ρεύμα/Οικιακά",
-            "children": [
-              {
-                "name": "Κίτρινα",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα",
-                "children": [
-                  {
-                    "name": "GENEROUS SOLAR  HOME 1.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/GENEROUS SOLAR  HOME 1.pdf"
-                  },
-                  {
-                    "name": "HAPPY HOUR FOR ALL HOME.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/HAPPY HOUR FOR ALL HOME.pdf"
-                  },
-                  {
-                    "name": "HAPPY HOUR HOME.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/HAPPY HOUR HOME.pdf"
-                  },
-                  {
-                    "name": "YELLOW BENEFIT HOME.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW BENEFIT HOME.pdf"
-                  },
-                  {
-                    "name": "YELLOW FREE HOME.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW FREE HOME.pdf"
-                  },
-                  {
-                    "name": "YELLOW FREE STUDENT.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW FREE STUDENT.pdf"
-                  },
-                  {
-                    "name": "YELLOW ONE HOME 2.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW ONE HOME 2.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Μπλε",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Οικιακά/Μπλε",
-                "children": [
-                  {
-                    "name": "BLUE GENEROUS HOME 6.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS HOME 6.pdf"
-                  },
-                  {
-                    "name": "BLUE GENEROUS HOME 7.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS HOME 7.pdf"
-                  },
-                  {
-                    "name": "BLUE GENEROUS MAX HOME 2.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS MAX HOME 2.pdf"
-                  },
-                  {
-                    "name": "BLUE GENEROUS MAX HOME 3.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS MAX HOME 3.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινα",
-                "type": "directory",
-                "path": "Ήρων/Ρεύμα/Οικιακά/Πράσινα",
-                "children": [
-                  {
-                    "name": "BASIC HOME.pdf",
-                    "type": "file",
-                    "path": "Ήρων/Ρεύμα/Οικιακά/Πράσινα/BASIC HOME.pdf"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "enerwave",
-    "type": "directory",
-    "path": "enerwave",
-    "children": [
-      {
-        "name": "Αέριο",
-        "type": "directory",
-        "path": "enerwave/Αέριο",
-        "children": [
-          {
-            "name": "Επαγγελματικό",
-            "type": "directory",
-            "path": "enerwave/Αέριο/Επαγγελματικό",
-            "children": [
-              {
-                "name": "Κυμαινόμενο",
-                "type": "directory",
-                "path": "enerwave/Αέριο/Επαγγελματικό/Κυμαινόμενο",
-                "children": [
-                  {
-                    "name": "Gas Business Win.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Επαγγελματικό/Κυμαινόμενο/Gas Business Win.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Σταθερό",
-                "type": "directory",
-                "path": "enerwave/Αέριο/Επαγγελματικό/Σταθερό",
-                "children": [
-                  {
-                    "name": "Gas Business Bright 12M.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Επαγγελματικό/Σταθερό/Gas Business Bright 12M.pdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Οικιακό",
-            "type": "directory",
-            "path": "enerwave/Αέριο/Οικιακό",
-            "children": [
-              {
-                "name": "Κυμαινόμενο",
-                "type": "directory",
-                "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο",
-                "children": [
-                  {
-                    "name": "Κοινόχρηστο",
+                    "name": "Σταθερό",
                     "type": "directory",
-                    "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Κοινόχρηστο",
+                    "path": "Ενέργεια/Ήρων/Αέριο/Οικιακό/Σταθερό",
                     "children": [
                       {
-                        "name": "Gas Building Win.pdf",
+                        "name": "Gas Blue.pdf",
                         "type": "file",
-                        "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Κοινόχρηστο/Gas Building Win.pdf"
+                        "path": "Ενέργεια/Ήρων/Αέριο/Οικιακό/Σταθερό/Gas Blue.pdf"
                       }
                     ]
                   },
                   {
-                    "name": "Gas start αυτόνομη.pdf",
+                    "name": "Gas Max Home 2.pdf",
                     "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Gas start αυτόνομη.pdf"
+                    "path": "Ενέργεια/Ήρων/Αέριο/Οικιακό/Gas Max Home 2.pdf"
                   },
                   {
-                    "name": "Gas Start κεντρική.pdf",
+                    "name": "Gas Pass.pdf",
                     "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Gas Start κεντρική.pdf"
-                  },
-                  {
-                    "name": "Promo 200€ Gas Start 13-14 Μήνα.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Promo 200€ Gas Start 13-14 Μήνα.pdf"
-                  },
-                  {
-                    "name": "Promo 200€ Gas Start.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Promo 200€ Gas Start.pdf"
+                    "path": "Ενέργεια/Ήρων/Αέριο/Οικιακό/Gas Pass.pdf"
                   }
                 ]
               },
               {
-                "name": "Σταθερό",
+                "name": "Gas Max Share.pdf",
+                "type": "file",
+                "path": "Ενέργεια/Ήρων/Αέριο/Gas Max Share.pdf"
+              }
+            ]
+          },
+          {
+            "name": "Ρεύμα",
+            "type": "directory",
+            "path": "Ενέργεια/Ήρων/Ρεύμα",
+            "children": [
+              {
+                "name": "Επαγγελματικά",
                 "type": "directory",
-                "path": "enerwave/Αέριο/Οικιακό/Σταθερό",
+                "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά",
                 "children": [
                   {
-                    "name": "Κοινόχρηστο",
+                    "name": "Κίτρινα",
                     "type": "directory",
-                    "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Κοινόχρηστο",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα",
                     "children": [
                       {
-                        "name": "Gas Building Bright 12M.pdf",
+                        "name": "BUSINESS BENEFIT 2.pdf",
                         "type": "file",
-                        "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Κοινόχρηστο/Gas Building Bright 12M.pdf"
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/BUSINESS BENEFIT 2.pdf"
+                      },
+                      {
+                        "name": "HAPPY HOUR BUSINESS.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/HAPPY HOUR BUSINESS.pdf"
+                      },
+                      {
+                        "name": "HAPPY HOUR FOR ALL BUSINESS.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/HAPPY HOUR FOR ALL BUSINESS.pdf"
+                      },
+                      {
+                        "name": "YELLOW BENEFIT BUSINESS S.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW BENEFIT BUSINESS S.pdf"
+                      },
+                      {
+                        "name": "YELLOW FREE BUSINESS.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW FREE BUSINESS.pdf"
+                      },
+                      {
+                        "name": "YELLOW ONE BUSINESS S 2.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW ONE BUSINESS S 2.pdf"
+                      },
+                      {
+                        "name": "YELLOW PLUS BUSINESS L.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW PLUS BUSINESS L.pdf"
+                      },
+                      {
+                        "name": "YELLOW PLUS BUSINESS S.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW PLUS BUSINESS S.pdf"
+                      },
+                      {
+                        "name": "YELLOW PLUS HOME.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Κίτρινα/YELLOW PLUS HOME.pdf"
                       }
                     ]
                   },
                   {
-                    "name": "Gas Home Bright New.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Bright New.pdf"
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Μπλε",
+                    "children": [
+                      {
+                        "name": "BLUE GENEROUS BUSINESS 6.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS BUSINESS 6.pdf"
+                      },
+                      {
+                        "name": "BLUE GENEROUS BUSINESS 7.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS BUSINESS 7.pdf"
+                      },
+                      {
+                        "name": "BLUE GENEROUS MAX BUSINESS 2.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS MAX BUSINESS 2.pdf"
+                      },
+                      {
+                        "name": "BLUE GENEROUS MAX BUSINESS 3.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Μπλε/BLUE GENEROUS MAX BUSINESS 3.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Gas Home Bright Plus.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Bright Plus.pdf"
+                    "name": "Πορτοκαλί",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Πορτοκαλί",
+                    "children": [
+                      {
+                        "name": "HAPPY HOUR BUSINESS L.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Πορτοκαλί/HAPPY HOUR BUSINESS L.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Gas Home Bright Promo 50€.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Bright Promo 50€.pdf"
+                    "name": "Πράσινα",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Πράσινα",
+                    "children": [
+                      {
+                        "name": "BASIC BUSINESS L.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Πράσινα/BASIC BUSINESS L.pdf"
+                      },
+                      {
+                        "name": "BASIC BUSINESS S.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Επαγγελματικά/Πράσινα/BASIC BUSINESS S.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Οικιακά",
+                "type": "directory",
+                "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά",
+                "children": [
+                  {
+                    "name": "Κίτρινα",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα",
+                    "children": [
+                      {
+                        "name": "GENEROUS SOLAR  HOME 1.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/GENEROUS SOLAR  HOME 1.pdf"
+                      },
+                      {
+                        "name": "HAPPY HOUR FOR ALL HOME.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/HAPPY HOUR FOR ALL HOME.pdf"
+                      },
+                      {
+                        "name": "HAPPY HOUR HOME.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/HAPPY HOUR HOME.pdf"
+                      },
+                      {
+                        "name": "YELLOW BENEFIT HOME.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW BENEFIT HOME.pdf"
+                      },
+                      {
+                        "name": "YELLOW FREE HOME.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW FREE HOME.pdf"
+                      },
+                      {
+                        "name": "YELLOW FREE STUDENT.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW FREE STUDENT.pdf"
+                      },
+                      {
+                        "name": "YELLOW ONE HOME 2.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Κίτρινα/YELLOW ONE HOME 2.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Gas Home Reward.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Reward.pdf"
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Μπλε",
+                    "children": [
+                      {
+                        "name": "BLUE GENEROUS HOME 6.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS HOME 6.pdf"
+                      },
+                      {
+                        "name": "BLUE GENEROUS HOME 7.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS HOME 7.pdf"
+                      },
+                      {
+                        "name": "BLUE GENEROUS MAX HOME 2.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS MAX HOME 2.pdf"
+                      },
+                      {
+                        "name": "BLUE GENEROUS MAX HOME 3.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Μπλε/BLUE GENEROUS MAX HOME 3.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Gas Home Win.pdf",
-                    "type": "file",
-                    "path": "enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Win.pdf"
+                    "name": "Πράσινα",
+                    "type": "directory",
+                    "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Πράσινα",
+                    "children": [
+                      {
+                        "name": "BASIC HOME.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/Ήρων/Ρεύμα/Οικιακά/Πράσινα/BASIC HOME.pdf"
+                      }
+                    ]
                   }
                 ]
               }
@@ -933,780 +824,953 @@
         ]
       },
       {
-        "name": "Ρεύμα",
+        "name": "enerwave",
         "type": "directory",
-        "path": "enerwave/Ρεύμα",
+        "path": "Ενέργεια/enerwave",
         "children": [
           {
-            "name": "Επαγγελματικό",
+            "name": "Αέριο",
             "type": "directory",
-            "path": "enerwave/Ρεύμα/Επαγγελματικό",
+            "path": "Ενέργεια/enerwave/Αέριο",
             "children": [
               {
-                "name": "Κίτρινο",
+                "name": "Επαγγελματικό",
                 "type": "directory",
-                "path": "enerwave/Ρεύμα/Επαγγελματικό/Κίτρινο",
+                "path": "Ενέργεια/enerwave/Αέριο/Επαγγελματικό",
                 "children": [
                   {
-                    "name": "Reward Saver For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Κίτρινο/Reward Saver For Business.pdf"
+                    "name": "Κυμαινόμενο",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Αέριο/Επαγγελματικό/Κυμαινόμενο",
+                    "children": [
+                      {
+                        "name": "Gas Business Win.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Επαγγελματικό/Κυμαινόμενο/Gas Business Win.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Smart Zero For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Κίτρινο/Smart Zero For Business.pdf"
+                    "name": "Σταθερό",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Αέριο/Επαγγελματικό/Σταθερό",
+                    "children": [
+                      {
+                        "name": "Gas Business Bright 12M.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Επαγγελματικό/Σταθερό/Gas Business Bright 12M.pdf"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "name": "Μπλε",
+                "name": "Οικιακό",
                 "type": "directory",
-                "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε",
+                "path": "Ενέργεια/enerwave/Αέριο/Οικιακό",
                 "children": [
                   {
-                    "name": "Bright Power Γ21.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Bright Power Γ21.pdf"
+                    "name": "Κυμαινόμενο",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο",
+                    "children": [
+                      {
+                        "name": "Κοινόχρηστο",
+                        "type": "directory",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Κοινόχρηστο",
+                        "children": [
+                          {
+                            "name": "Gas Building Win.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Κοινόχρηστο/Gas Building Win.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Gas start αυτόνομη.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Gas start αυτόνομη.pdf"
+                      },
+                      {
+                        "name": "Gas Start κεντρική.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Gas Start κεντρική.pdf"
+                      },
+                      {
+                        "name": "Promo 200€ Gas Start 13-14 Μήνα.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Promo 200€ Gas Start 13-14 Μήνα.pdf"
+                      },
+                      {
+                        "name": "Promo 200€ Gas Start.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Κυμαινόμενο/Promo 200€ Gas Start.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Bright Power Γ22-Γ23.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Bright Power Γ22-Γ23.pdf"
-                  },
-                  {
-                    "name": "My Wave Daily 1 For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 1 For Business.pdf"
-                  },
-                  {
-                    "name": "My Wave Daily 1.5 For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 1.5 For Business.pdf"
-                  },
-                  {
-                    "name": "My Wave Daily 2 For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 2 For Business.pdf"
-                  },
-                  {
-                    "name": "My Wave Daily 2.5 For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 2.5 For Business.pdf"
-                  },
-                  {
-                    "name": "My Wave Daily 3 For Business.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 3 For Business.pdf"
-                  },
-                  {
-                    "name": "My Wave Daily Promo Δώρο το πάγιο 60ημ.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily Promo Δώρο το πάγιο 60ημ.pdf"
-                  },
-                  {
-                    "name": "Reward Fee Free Γ21.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Reward Fee Free Γ21.pdf"
-                  },
-                  {
-                    "name": "Reward Prime Γ21.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Reward Prime Γ21.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πορτοκαλί",
-                "type": "directory",
-                "path": "enerwave/Ρεύμα/Επαγγελματικό/Πορτοκαλί",
-                "children": [
-                  {
-                    "name": "Smart Dynamic.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Πορτοκαλί/Smart Dynamic.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινο",
-                "type": "directory",
-                "path": "enerwave/Ρεύμα/Επαγγελματικό/Πράσινο",
-                "children": [
-                  {
-                    "name": "Ειδικό Τιμολόγιο Γ21.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Πράσινο/Ειδικό Τιμολόγιο Γ21.pdf"
-                  },
-                  {
-                    "name": "Ειδικό Τιμολόγιο Γ22-Γ23.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Επαγγελματικό/Πράσινο/Ειδικό Τιμολόγιο Γ22-Γ23.pdf"
+                    "name": "Σταθερό",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό",
+                    "children": [
+                      {
+                        "name": "Κοινόχρηστο",
+                        "type": "directory",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Κοινόχρηστο",
+                        "children": [
+                          {
+                            "name": "Gas Building Bright 12M.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Κοινόχρηστο/Gas Building Bright 12M.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Gas Home Bright New.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Bright New.pdf"
+                      },
+                      {
+                        "name": "Gas Home Bright Plus.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Bright Plus.pdf"
+                      },
+                      {
+                        "name": "Gas Home Bright Promo 50€.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Bright Promo 50€.pdf"
+                      },
+                      {
+                        "name": "Gas Home Reward.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Reward.pdf"
+                      },
+                      {
+                        "name": "Gas Home Win.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Αέριο/Οικιακό/Σταθερό/Gas Home Win.pdf"
+                      }
+                    ]
                   }
                 ]
               }
             ]
           },
           {
-            "name": "Οικιακό",
+            "name": "Ρεύμα",
             "type": "directory",
-            "path": "enerwave/Ρεύμα/Οικιακό",
+            "path": "Ενέργεια/enerwave/Ρεύμα",
             "children": [
               {
-                "name": "Κίτρινο",
+                "name": "Επαγγελματικό",
                 "type": "directory",
-                "path": "enerwave/Ρεύμα/Οικιακό/Κίτρινο",
+                "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό",
                 "children": [
                   {
-                    "name": "Reward Night Saver.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Κίτρινο/Reward Night Saver.pdf"
+                    "name": "Κίτρινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Κίτρινο",
+                    "children": [
+                      {
+                        "name": "Reward Saver For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Κίτρινο/Reward Saver For Business.pdf"
+                      },
+                      {
+                        "name": "Smart Zero For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Κίτρινο/Smart Zero For Business.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Reward Saver.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Κίτρινο/Reward Saver.pdf"
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε",
+                    "children": [
+                      {
+                        "name": "Bright Power Γ21.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Bright Power Γ21.pdf"
+                      },
+                      {
+                        "name": "Bright Power Γ22-Γ23.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Bright Power Γ22-Γ23.pdf"
+                      },
+                      {
+                        "name": "My Wave Daily 1 For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 1 For Business.pdf"
+                      },
+                      {
+                        "name": "My Wave Daily 1.5 For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 1.5 For Business.pdf"
+                      },
+                      {
+                        "name": "My Wave Daily 2 For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 2 For Business.pdf"
+                      },
+                      {
+                        "name": "My Wave Daily 2.5 For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 2.5 For Business.pdf"
+                      },
+                      {
+                        "name": "My Wave Daily 3 For Business.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily 3 For Business.pdf"
+                      },
+                      {
+                        "name": "My Wave Daily Promo Δώρο το πάγιο 60ημ.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/My Wave Daily Promo Δώρο το πάγιο 60ημ.pdf"
+                      },
+                      {
+                        "name": "Reward Fee Free Γ21.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Reward Fee Free Γ21.pdf"
+                      },
+                      {
+                        "name": "Reward Prime Γ21.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Μπλε/Reward Prime Γ21.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Smart Zero.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Κίτρινο/Smart Zero.pdf"
+                    "name": "Πορτοκαλί",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Πορτοκαλί",
+                    "children": [
+                      {
+                        "name": "Smart Dynamic.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Πορτοκαλί/Smart Dynamic.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Smart.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Κίτρινο/Smart.pdf"
+                    "name": "Πράσινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Πράσινο",
+                    "children": [
+                      {
+                        "name": "Ειδικό Τιμολόγιο Γ21.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Πράσινο/Ειδικό Τιμολόγιο Γ21.pdf"
+                      },
+                      {
+                        "name": "Ειδικό Τιμολόγιο Γ22-Γ23.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Επαγγελματικό/Πράσινο/Ειδικό Τιμολόγιο Γ22-Γ23.pdf"
+                      }
+                    ]
                   }
                 ]
               },
               {
-                "name": "Μπλε",
+                "name": "Οικιακό",
                 "type": "directory",
-                "path": "enerwave/Ρεύμα/Οικιακό/Μπλε",
+                "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό",
                 "children": [
                   {
-                    "name": "Bright Home.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/Bright Home.pdf"
+                    "name": "Κίτρινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Κίτρινο",
+                    "children": [
+                      {
+                        "name": "Reward Night Saver.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Κίτρινο/Reward Night Saver.pdf"
+                      },
+                      {
+                        "name": "Reward Saver.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Κίτρινο/Reward Saver.pdf"
+                      },
+                      {
+                        "name": "Smart Zero.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Κίτρινο/Smart Zero.pdf"
+                      },
+                      {
+                        "name": "Smart.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Κίτρινο/Smart.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Heatgreen Electricity.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/Heatgreen Electricity.pdf"
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε",
+                    "children": [
+                      {
+                        "name": "Bright Home.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/Bright Home.pdf"
+                      },
+                      {
+                        "name": "Heatgreen Electricity.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/Heatgreen Electricity.pdf"
+                      },
+                      {
+                        "name": "MyWave Daily 1.5.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 1.5.pdf"
+                      },
+                      {
+                        "name": "MyWave Daily 1.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 1.pdf"
+                      },
+                      {
+                        "name": "MyWave Daily 2.5.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 2.5.pdf"
+                      },
+                      {
+                        "name": "MyWave Daily 2.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 2.pdf"
+                      },
+                      {
+                        "name": "MyWave Daily 3.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 3.pdf"
+                      },
+                      {
+                        "name": "Reward drivegreen.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/Reward drivegreen.pdf"
+                      },
+                      {
+                        "name": "Reward Fee Free.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/Reward Fee Free.pdf"
+                      },
+                      {
+                        "name": "Reward Prime Plus.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/Reward Prime Plus.pdf"
+                      },
+                      {
+                        "name": "Reward Prime.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Μπλε/Reward Prime.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "MyWave Daily 1.5.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 1.5.pdf"
-                  },
-                  {
-                    "name": "MyWave Daily 1.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 1.pdf"
-                  },
-                  {
-                    "name": "MyWave Daily 2.5.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 2.5.pdf"
-                  },
-                  {
-                    "name": "MyWave Daily 2.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 2.pdf"
-                  },
-                  {
-                    "name": "MyWave Daily 3.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/MyWave Daily 3.pdf"
-                  },
-                  {
-                    "name": "Reward drivegreen.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/Reward drivegreen.pdf"
-                  },
-                  {
-                    "name": "Reward Fee Free.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/Reward Fee Free.pdf"
-                  },
-                  {
-                    "name": "Reward Prime Plus.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/Reward Prime Plus.pdf"
-                  },
-                  {
-                    "name": "Reward Prime.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Μπλε/Reward Prime.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινο",
-                "type": "directory",
-                "path": "enerwave/Ρεύμα/Οικιακό/Πράσινο",
-                "children": [
-                  {
-                    "name": "Ειδικό Τιμολόγιο.pdf",
-                    "type": "file",
-                    "path": "enerwave/Ρεύμα/Οικιακό/Πράσινο/Ειδικό Τιμολόγιο.pdf"
+                    "name": "Πράσινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Πράσινο",
+                    "children": [
+                      {
+                        "name": "Ειδικό Τιμολόγιο.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/enerwave/Ρεύμα/Οικιακό/Πράσινο/Ειδικό Τιμολόγιο.pdf"
+                      }
+                    ]
                   }
                 ]
               }
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "protergia",
-    "type": "directory",
-    "path": "protergia",
-    "children": [
+      },
       {
-        "name": "Αέριο",
+        "name": "protergia",
         "type": "directory",
-        "path": "protergia/Αέριο",
+        "path": "Ενέργεια/protergia",
         "children": [
           {
-            "name": "Επαγγελματικό",
+            "name": "Αέριο",
             "type": "directory",
-            "path": "protergia/Αέριο/Επαγγελματικό",
+            "path": "Ενέργεια/protergia/Αέριο",
             "children": [
               {
-                "name": "Απαιτούμενα Δικαιολογητικά",
+                "name": "Επαγγελματικό",
                 "type": "directory",
-                "path": "protergia/Αέριο/Επαγγελματικό/Απαιτούμενα Δικαιολογητικά",
+                "path": "Ενέργεια/protergia/Αέριο/Επαγγελματικό",
                 "children": [
                   {
-                    "name": "Απαιτούμενα Δικαιολογητικά.pdf",
+                    "name": "Απαιτούμενα Δικαιολογητικά",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Αέριο/Επαγγελματικό/Απαιτούμενα Δικαιολογητικά",
+                    "children": [
+                      {
+                        "name": "Απαιτούμενα Δικαιολογητικά.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Αέριο/Επαγγελματικό/Απαιτούμενα Δικαιολογητικά/Απαιτούμενα Δικαιολογητικά.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ΓΟΣ",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Αέριο/Επαγγελματικό/ΓΟΣ",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ Επαγγελματικό Φ.Α..pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Αέριο/Επαγγελματικό/ΓΟΣ/ΓΟΣ Επαγγελματικό Φ.Α..pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Αίτηση  Επαγγελματικό Φ.Α..pdf",
                     "type": "file",
-                    "path": "protergia/Αέριο/Επαγγελματικό/Απαιτούμενα Δικαιολογητικά/Απαιτούμενα Δικαιολογητικά.pdf"
+                    "path": "Ενέργεια/protergia/Αέριο/Επαγγελματικό/Αίτηση  Επαγγελματικό Φ.Α..pdf"
                   }
                 ]
               },
               {
-                "name": "ΓΟΣ",
+                "name": "Οικιακό",
                 "type": "directory",
-                "path": "protergia/Αέριο/Επαγγελματικό/ΓΟΣ",
+                "path": "Ενέργεια/protergia/Αέριο/Οικιακό",
                 "children": [
                   {
-                    "name": "ΓΟΣ Επαγγελματικό Φ.Α..pdf",
+                    "name": "Απαιτούμενα Δικαιολογητικά",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Αέριο/Οικιακό/Απαιτούμενα Δικαιολογητικά",
+                    "children": [
+                      {
+                        "name": "Απαιτούμενα Δικαιολογητικά.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Αέριο/Οικιακό/Απαιτούμενα Δικαιολογητικά/Απαιτούμενα Δικαιολογητικά.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ΓΟΣ",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Αέριο/Οικιακό/ΓΟΣ",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ Οικιακό Φ.Α..pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Αέριο/Οικιακό/ΓΟΣ/ΓΟΣ Οικιακό Φ.Α..pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Αίτηση Οικιακό Φ.Α..pdf",
                     "type": "file",
-                    "path": "protergia/Αέριο/Επαγγελματικό/ΓΟΣ/ΓΟΣ Επαγγελματικό Φ.Α..pdf"
+                    "path": "Ενέργεια/protergia/Αέριο/Οικιακό/Αίτηση Οικιακό Φ.Α..pdf"
                   }
                 ]
-              },
-              {
-                "name": "Αίτηση  Επαγγελματικό Φ.Α..pdf",
-                "type": "file",
-                "path": "protergia/Αέριο/Επαγγελματικό/Αίτηση  Επαγγελματικό Φ.Α..pdf"
               }
             ]
           },
           {
-            "name": "Οικιακό",
+            "name": "Ρεύμα",
             "type": "directory",
-            "path": "protergia/Αέριο/Οικιακό",
+            "path": "Ενέργεια/protergia/Ρεύμα",
             "children": [
               {
-                "name": "Απαιτούμενα Δικαιολογητικά",
+                "name": "Επαγγελματικό",
                 "type": "directory",
-                "path": "protergia/Αέριο/Οικιακό/Απαιτούμενα Δικαιολογητικά",
+                "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό",
                 "children": [
                   {
-                    "name": "Απαιτούμενα Δικαιολογητικά.pdf",
+                    "name": "Κίτρινα",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ",
+                        "type": "directory",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ",
+                        "children": [
+                          {
+                            "name": "ΓΟΣ Επ. 2 Value Special.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Επ. 2 Value Special.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Επ.1 Value Special.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Επ.1 Value Special.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Επ.3 Value Special.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Επ.3 Value Special.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Value Simple.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Value Simple.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Value Standard.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Value Standard.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Επαγγελματικό 1 Value Simple.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 1 Value Simple.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 1 Value Standard.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 1 Value Standard.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 2 Value Simple.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 2 Value Simple.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 2 Value Standard.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 2 Value Standard.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 3 Value Simple.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 3 Value Simple.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 3 Value Standard.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 3 Value Standard.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ",
+                        "type": "directory",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ",
+                        "children": [
+                          {
+                            "name": "Επ. 1 Value Sure.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ/Επ. 1 Value Sure.pdf"
+                          },
+                          {
+                            "name": "Επ. 2 Value Sure.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ/Επ. 2 Value Sure.pdf"
+                          },
+                          {
+                            "name": "Επ. 3 Value Sure.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ/Επ. 3 Value Sure.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Επαγγελματικό 1 Value Sure.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/Επαγγελματικό 1 Value Sure.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 2 Value Sure.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/Επαγγελματικό 2 Value Sure.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 3 Value Sure.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Μπλε/Επαγγελματικό 3 Value Sure.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Πορτοκαλί",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ",
+                        "type": "directory",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί/ΓΟΣ",
+                        "children": [
+                          {
+                            "name": "ΓΟΣ Επ. 2 Dynamic One.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί/ΓΟΣ/ΓΟΣ Επ. 2 Dynamic One.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Επαγγελματικό 2 Dynamic One.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί/Επαγγελματικό 2 Dynamic One.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Πράσινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πράσινο",
+                    "children": [
+                      {
+                        "name": "Επαγγελματικό 1 Value Special.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πράσινο/Επαγγελματικό 1 Value Special.pdf"
+                      },
+                      {
+                        "name": "Επαγγελματικό 2 Value Special.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/Πράσινο/Επαγγελματικό 2 Value Special.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "eο1250-2_181_v2_012026_aitisi_epaggelmatiko_ε1_value_standard (1).pdf",
                     "type": "file",
-                    "path": "protergia/Αέριο/Οικιακό/Απαιτούμενα Δικαιολογητικά/Απαιτούμενα Δικαιολογητικά.pdf"
+                    "path": "Ενέργεια/protergia/Ρεύμα/Επαγγελματικό/eο1250-2_181_v2_012026_aitisi_epaggelmatiko_ε1_value_standard (1).pdf"
                   }
                 ]
               },
               {
-                "name": "ΓΟΣ",
+                "name": "Οικιακό",
                 "type": "directory",
-                "path": "protergia/Αέριο/Οικιακό/ΓΟΣ",
+                "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό",
                 "children": [
                   {
-                    "name": "ΓΟΣ Οικιακό Φ.Α..pdf",
-                    "type": "file",
-                    "path": "protergia/Αέριο/Οικιακό/ΓΟΣ/ΓΟΣ Οικιακό Φ.Α..pdf"
+                    "name": "Κίτρινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ",
+                        "type": "directory",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ",
+                        "children": [
+                          {
+                            "name": "ΓΟΣ Value Flex.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ/ΓΟΣ Value Flex.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Value Lite.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ/ΓΟΣ Value Lite.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Value Standard.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ/ΓΟΣ Value Standard.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Value Flex.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/Value Flex.pdf"
+                      },
+                      {
+                        "name": "Value Lite.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/Value Lite.pdf"
+                      },
+                      {
+                        "name": "Value Standard.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Κίτρινο/Value Standard.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ",
+                        "type": "directory",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ",
+                        "children": [
+                          {
+                            "name": "ΓΟΣ Value 4 Family.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ/ΓΟΣ Value 4 Family.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Value Sure 12M.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ/ΓΟΣ Value Sure 12M.pdf"
+                          },
+                          {
+                            "name": "ΓΟΣ Value Sure 18M.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ/ΓΟΣ Value Sure 18M.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Value 4 Family.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/Value 4 Family.pdf"
+                      },
+                      {
+                        "name": "Value Sure 12M.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/Value Sure 12M.pdf"
+                      },
+                      {
+                        "name": "Value Sure 18M.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Μπλε/Value Sure 18M.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Πράσινο",
+                    "type": "directory",
+                    "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Πράσινο",
+                    "children": [
+                      {
+                        "name": "ΓΟΣ",
+                        "type": "directory",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Πράσινο/ΓΟΣ",
+                        "children": [
+                          {
+                            "name": "ΓΟΣ Value Pecial.pdf",
+                            "type": "file",
+                            "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Πράσινο/ΓΟΣ/ΓΟΣ Value Pecial.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Value Special.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/protergia/Ρεύμα/Οικιακό/Πράσινο/Value Special.pdf"
+                      }
+                    ]
                   }
                 ]
-              },
-              {
-                "name": "Αίτηση Οικιακό Φ.Α..pdf",
-                "type": "file",
-                "path": "protergia/Αέριο/Οικιακό/Αίτηση Οικιακό Φ.Α..pdf"
               }
             ]
           }
         ]
       },
       {
-        "name": "Ρεύμα",
+        "name": "volton",
         "type": "directory",
-        "path": "protergia/Ρεύμα",
+        "path": "Ενέργεια/volton",
         "children": [
           {
-            "name": "Επαγγελματικό",
+            "name": "Αέριο",
             "type": "directory",
-            "path": "protergia/Ρεύμα/Επαγγελματικό",
+            "path": "Ενέργεια/volton/Αέριο",
             "children": [
               {
-                "name": "Κίτρινα",
-                "type": "directory",
-                "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα",
-                "children": [
-                  {
-                    "name": "ΓΟΣ",
-                    "type": "directory",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ",
-                    "children": [
-                      {
-                        "name": "ΓΟΣ Επ. 2 Value Special.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Επ. 2 Value Special.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Επ.1 Value Special.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Επ.1 Value Special.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Επ.3 Value Special.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Επ.3 Value Special.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Value Simple.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Value Simple.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Value Standard.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/ΓΟΣ/ΓΟΣ Value Standard.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "name": "Επαγγελματικό 1 Value Simple.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 1 Value Simple.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 1 Value Standard.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 1 Value Standard.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 2 Value Simple.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 2 Value Simple.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 2 Value Standard.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 2 Value Standard.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 3 Value Simple.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 3 Value Simple.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 3 Value Standard.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Κίτρινα/Επαγγελματικό 3 Value Standard.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Μπλε",
-                "type": "directory",
-                "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε",
-                "children": [
-                  {
-                    "name": "ΓΟΣ",
-                    "type": "directory",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ",
-                    "children": [
-                      {
-                        "name": "Επ. 1 Value Sure.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ/Επ. 1 Value Sure.pdf"
-                      },
-                      {
-                        "name": "Επ. 2 Value Sure.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ/Επ. 2 Value Sure.pdf"
-                      },
-                      {
-                        "name": "Επ. 3 Value Sure.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/ΓΟΣ/Επ. 3 Value Sure.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "name": "Επαγγελματικό 1 Value Sure.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/Επαγγελματικό 1 Value Sure.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 2 Value Sure.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/Επαγγελματικό 2 Value Sure.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 3 Value Sure.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Μπλε/Επαγγελματικό 3 Value Sure.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πορτοκαλί",
-                "type": "directory",
-                "path": "protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί",
-                "children": [
-                  {
-                    "name": "ΓΟΣ",
-                    "type": "directory",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί/ΓΟΣ",
-                    "children": [
-                      {
-                        "name": "ΓΟΣ Επ. 2 Dynamic One.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί/ΓΟΣ/ΓΟΣ Επ. 2 Dynamic One.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "name": "Επαγγελματικό 2 Dynamic One.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Πορτοκαλί/Επαγγελματικό 2 Dynamic One.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινο",
-                "type": "directory",
-                "path": "protergia/Ρεύμα/Επαγγελματικό/Πράσινο",
-                "children": [
-                  {
-                    "name": "Επαγγελματικό 1 Value Special.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Πράσινο/Επαγγελματικό 1 Value Special.pdf"
-                  },
-                  {
-                    "name": "Επαγγελματικό 2 Value Special.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Επαγγελματικό/Πράσινο/Επαγγελματικό 2 Value Special.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "eο1250-2_181_v2_012026_aitisi_epaggelmatiko_ε1_value_standard (1).pdf",
+                "name": "Αίτηση Φ.Α. Επεξεργάσιμη.pdf",
                 "type": "file",
-                "path": "protergia/Ρεύμα/Επαγγελματικό/eο1250-2_181_v2_012026_aitisi_epaggelmatiko_ε1_value_standard (1).pdf"
+                "path": "Ενέργεια/volton/Αέριο/Αίτηση Φ.Α. Επεξεργάσιμη.pdf"
+              },
+              {
+                "name": "Αίτηση Φ.Α..pdf",
+                "type": "file",
+                "path": "Ενέργεια/volton/Αέριο/Αίτηση Φ.Α..pdf"
+              },
+              {
+                "name": "ΓΟ Φ.Α. ΧΠ Επεξεργάσιμη.pdf",
+                "type": "file",
+                "path": "Ενέργεια/volton/Αέριο/ΓΟ Φ.Α. ΧΠ Επεξεργάσιμη.pdf"
+              },
+              {
+                "name": "ΓΟ Φ.Α. ΧΠ.pdf",
+                "type": "file",
+                "path": "Ενέργεια/volton/Αέριο/ΓΟ Φ.Α. ΧΠ.pdf"
               }
             ]
           },
           {
-            "name": "Οικιακό",
+            "name": "Ρεύμα",
             "type": "directory",
-            "path": "protergia/Ρεύμα/Οικιακό",
+            "path": "Ενέργεια/volton/Ρεύμα",
             "children": [
               {
-                "name": "Κίτρινο",
+                "name": "Επαγγελματικό",
                 "type": "directory",
-                "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο",
+                "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό",
                 "children": [
                   {
-                    "name": "ΓΟΣ",
+                    "name": "Κίτρινο",
                     "type": "directory",
-                    "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ",
+                    "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Κίτρινο",
                     "children": [
                       {
-                        "name": "ΓΟΣ Value Flex.pdf",
+                        "name": "Γ21 Yellow Flat.pdf",
                         "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ/ΓΟΣ Value Flex.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Value Lite.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ/ΓΟΣ Value Lite.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Value Standard.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/ΓΟΣ/ΓΟΣ Value Standard.pdf"
+                        "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Κίτρινο/Γ21 Yellow Flat.pdf"
                       }
                     ]
                   },
                   {
-                    "name": "Value Flex.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/Value Flex.pdf"
+                    "name": "Μπλε",
+                    "type": "directory",
+                    "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Μπλε",
+                    "children": [
+                      {
+                        "name": "Γ21 Blue Flat.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Μπλε/Γ21 Blue Flat.pdf"
+                      },
+                      {
+                        "name": "Blue Flat Γ21.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Μπλε/Blue Flat Γ21.pdf"
+                      },
+                      {
+                        "name": "PROMO 6M Παράταση.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Μπλε/PROMO 6M Παράταση.pdf"
+                      },
+                      {
+                        "name": "PROMO 6M.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Μπλε/PROMO 6M.pdf"
+                      }
+                    ]
                   },
                   {
-                    "name": "Value Lite.pdf",
+                    "name": "Αίτηση Η.Ε. Επεξεργάσιμη.pdf",
                     "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/Value Lite.pdf"
+                    "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Αίτηση Η.Ε. Επεξεργάσιμη.pdf"
                   },
                   {
-                    "name": "Value Standard.pdf",
+                    "name": "Αίτηση Η.Ε..pdf",
                     "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Κίτρινο/Value Standard.pdf"
+                    "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Αίτηση Η.Ε..pdf"
+                  },
+                  {
+                    "name": "Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf"
+                  },
+                  {
+                    "name": "Γενικοί όροι Η.Ε. ΧΤ.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/volton/Ρεύμα/Επαγγελματικό/Γενικοί όροι Η.Ε. ΧΤ.pdf"
                   }
                 ]
               },
               {
-                "name": "Μπλε",
+                "name": "Οικιακό",
                 "type": "directory",
-                "path": "protergia/Ρεύμα/Οικιακό/Μπλε",
+                "path": "Ενέργεια/volton/Ρεύμα/Οικιακό",
                 "children": [
                   {
-                    "name": "ΓΟΣ",
+                    "name": "Κίτρινο",
                     "type": "directory",
-                    "path": "protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ",
+                    "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Κίτρινο",
                     "children": [
                       {
-                        "name": "ΓΟΣ Value 4 Family.pdf",
+                        "name": "Γ1 Yellow Flat.pdf",
                         "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ/ΓΟΣ Value 4 Family.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Value Sure 12M.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ/ΓΟΣ Value Sure 12M.pdf"
-                      },
-                      {
-                        "name": "ΓΟΣ Value Sure 18M.pdf",
-                        "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Μπλε/ΓΟΣ/ΓΟΣ Value Sure 18M.pdf"
+                        "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Κίτρινο/Γ1 Yellow Flat.pdf"
                       }
                     ]
                   },
                   {
-                    "name": "Value 4 Family.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Μπλε/Value 4 Family.pdf"
-                  },
-                  {
-                    "name": "Value Sure 12M.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Μπλε/Value Sure 12M.pdf"
-                  },
-                  {
-                    "name": "Value Sure 18M.pdf",
-                    "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Μπλε/Value Sure 18M.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Πράσινο",
-                "type": "directory",
-                "path": "protergia/Ρεύμα/Οικιακό/Πράσινο",
-                "children": [
-                  {
-                    "name": "ΓΟΣ",
+                    "name": "Μπλε",
                     "type": "directory",
-                    "path": "protergia/Ρεύμα/Οικιακό/Πράσινο/ΓΟΣ",
+                    "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Μπλε",
                     "children": [
                       {
-                        "name": "ΓΟΣ Value Pecial.pdf",
+                        "name": "Γ1 Blue Flat.pdf",
                         "type": "file",
-                        "path": "protergia/Ρεύμα/Οικιακό/Πράσινο/ΓΟΣ/ΓΟΣ Value Pecial.pdf"
+                        "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Μπλε/Γ1 Blue Flat.pdf"
+                      },
+                      {
+                        "name": "Blue Flat Γ1.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Μπλε/Blue Flat Γ1.pdf"
+                      },
+                      {
+                        "name": "PROMO 6M Παράταση.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Μπλε/PROMO 6M Παράταση.pdf"
+                      },
+                      {
+                        "name": "PROMO 6M.pdf",
+                        "type": "file",
+                        "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Μπλε/PROMO 6M.pdf"
                       }
                     ]
                   },
                   {
-                    "name": "Value Special.pdf",
+                    "name": "Αίτηση Η.Ε. Επεξεργάσιμη.pdf",
                     "type": "file",
-                    "path": "protergia/Ρεύμα/Οικιακό/Πράσινο/Value Special.pdf"
+                    "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Αίτηση Η.Ε. Επεξεργάσιμη.pdf"
+                  },
+                  {
+                    "name": "Αίτηση Η.Ε..pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Αίτηση Η.Ε..pdf"
+                  },
+                  {
+                    "name": "Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf"
+                  },
+                  {
+                    "name": "Γενικοί όροι Η.Ε. ΧΤ.pdf",
+                    "type": "file",
+                    "path": "Ενέργεια/volton/Ρεύμα/Οικιακό/Γενικοί όροι Η.Ε. ΧΤ.pdf"
                   }
                 ]
               }
             ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "volton",
-    "type": "directory",
-    "path": "volton",
-    "children": [
-      {
-        "name": "Αέριο",
-        "type": "directory",
-        "path": "volton/Αέριο",
-        "children": [
-          {
-            "name": "Αίτηση Φ.Α. Επεξεργάσιμη.pdf",
-            "type": "file",
-            "path": "volton/Αέριο/Αίτηση Φ.Α. Επεξεργάσιμη.pdf"
-          },
-          {
-            "name": "Αίτηση Φ.Α..pdf",
-            "type": "file",
-            "path": "volton/Αέριο/Αίτηση Φ.Α..pdf"
-          },
-          {
-            "name": "ΓΟ Φ.Α. ΧΠ Επεξεργάσιμη.pdf",
-            "type": "file",
-            "path": "volton/Αέριο/ΓΟ Φ.Α. ΧΠ Επεξεργάσιμη.pdf"
-          },
-          {
-            "name": "ΓΟ Φ.Α. ΧΠ.pdf",
-            "type": "file",
-            "path": "volton/Αέριο/ΓΟ Φ.Α. ΧΠ.pdf"
           }
         ]
       },
       {
-        "name": "Ρεύμα",
+        "name": "NRG",
         "type": "directory",
-        "path": "volton/Ρεύμα",
+        "path": "Ενέργεια/NRG",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Τηλεφωνία",
+    "type": "directory",
+    "path": "Τηλεφωνία",
+    "children": [
+      {
+        "name": "Λοιποί πάροχοι τηλεφωνίας",
+        "type": "directory",
+        "path": "Τηλεφωνία/Λοιποί πάροχοι τηλεφωνίας",
         "children": [
           {
-            "name": "Επαγγελματικό",
+            "name": "Nova",
             "type": "directory",
-            "path": "volton/Ρεύμα/Επαγγελματικό",
-            "children": [
-              {
-                "name": "Κίτρινο",
-                "type": "directory",
-                "path": "volton/Ρεύμα/Επαγγελματικό/Κίτρινο",
-                "children": [
-                  {
-                    "name": "Γ21 Yellow Flat.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Επαγγελματικό/Κίτρινο/Γ21 Yellow Flat.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Μπλε",
-                "type": "directory",
-                "path": "volton/Ρεύμα/Επαγγελματικό/Μπλε",
-                "children": [
-                  {
-                    "name": "Γ21 Blue Flat.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Επαγγελματικό/Μπλε/Γ21 Blue Flat.pdf"
-                  },
-                  {
-                    "name": "Blue Flat Γ21.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Επαγγελματικό/Μπλε/Blue Flat Γ21.pdf"
-                  },
-                  {
-                    "name": "PROMO 6M Παράταση.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Επαγγελματικό/Μπλε/PROMO 6M Παράταση.pdf"
-                  },
-                  {
-                    "name": "PROMO 6M.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Επαγγελματικό/Μπλε/PROMO 6M.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Αίτηση Η.Ε. Επεξεργάσιμη.pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Επαγγελματικό/Αίτηση Η.Ε. Επεξεργάσιμη.pdf"
-              },
-              {
-                "name": "Αίτηση Η.Ε..pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Επαγγελματικό/Αίτηση Η.Ε..pdf"
-              },
-              {
-                "name": "Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Επαγγελματικό/Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf"
-              },
-              {
-                "name": "Γενικοί όροι Η.Ε. ΧΤ.pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Επαγγελματικό/Γενικοί όροι Η.Ε. ΧΤ.pdf"
-              }
-            ]
+            "path": "Τηλεφωνία/Λοιποί πάροχοι τηλεφωνίας/Nova",
+            "children": []
           },
           {
-            "name": "Οικιακό",
+            "name": "Cosmote",
             "type": "directory",
-            "path": "volton/Ρεύμα/Οικιακό",
-            "children": [
-              {
-                "name": "Κίτρινο",
-                "type": "directory",
-                "path": "volton/Ρεύμα/Οικιακό/Κίτρινο",
-                "children": [
-                  {
-                    "name": "Γ1 Yellow Flat.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Οικιακό/Κίτρινο/Γ1 Yellow Flat.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Μπλε",
-                "type": "directory",
-                "path": "volton/Ρεύμα/Οικιακό/Μπλε",
-                "children": [
-                  {
-                    "name": "Γ1 Blue Flat.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Οικιακό/Μπλε/Γ1 Blue Flat.pdf"
-                  },
-                  {
-                    "name": "Blue Flat Γ1.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Οικιακό/Μπλε/Blue Flat Γ1.pdf"
-                  },
-                  {
-                    "name": "PROMO 6M Παράταση.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Οικιακό/Μπλε/PROMO 6M Παράταση.pdf"
-                  },
-                  {
-                    "name": "PROMO 6M.pdf",
-                    "type": "file",
-                    "path": "volton/Ρεύμα/Οικιακό/Μπλε/PROMO 6M.pdf"
-                  }
-                ]
-              },
-              {
-                "name": "Αίτηση Η.Ε. Επεξεργάσιμη.pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Οικιακό/Αίτηση Η.Ε. Επεξεργάσιμη.pdf"
-              },
-              {
-                "name": "Αίτηση Η.Ε..pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Οικιακό/Αίτηση Η.Ε..pdf"
-              },
-              {
-                "name": "Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Οικιακό/Γενικοί όροι Η.Ε. ΧΤ Επεξεργάσιμη.pdf"
-              },
-              {
-                "name": "Γενικοί όροι Η.Ε. ΧΤ.pdf",
-                "type": "file",
-                "path": "volton/Ρεύμα/Οικιακό/Γενικοί όροι Η.Ε. ΧΤ.pdf"
-              }
-            ]
+            "path": "Τηλεφωνία/Λοιποί πάροχοι τηλεφωνίας/Cosmote",
+            "children": []
           }
         ]
+      },
+      {
+        "name": "Vodafone",
+        "type": "directory",
+        "path": "Τηλεφωνία/Vodafone",
+        "children": []
       }
     ]
   }
