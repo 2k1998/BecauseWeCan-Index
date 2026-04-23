@@ -3,13 +3,13 @@ const path = require('path');
 
 function walk(dir, relPath = '') {
   let results = [];
-  
+
   if (!fs.existsSync(dir)) {
     return results;
   }
-  
+
   const list = fs.readdirSync(dir);
-  
+
   // Sort folders first, then alphabetically
   list.sort((a, b) => {
     const aIsDir = fs.statSync(path.join(dir, a)).isDirectory();
